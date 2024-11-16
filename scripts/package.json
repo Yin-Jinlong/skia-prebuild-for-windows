@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "tool": "tsx main.ts"
+  },
+  "keywords": [],
+  "author": "yin-jinlong@github",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "commander": "^12.1.0",
+    "inquirer": "^12.1.0"
+  }
+}
